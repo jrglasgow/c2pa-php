@@ -1,5 +1,5 @@
 # Project
-The end goal of this project is to provide a PHP extension with bindings to the [C2PA Rust SDK](https://github.com/contentauth/c2pa-rs). I got started on this and was moved to a more expeditious project of a [PHP Wrapper](https://github.com/jrglasgow/c2pa-php) around the [c2patool (command line binary)](https://github.com/contentauth/c2patool).
+The end goal of this project is to provide a PHP extension with bindings to the [C2PA Rust SDK](https://github.com/contentauth/c2pa-rs). I got started on this and was moved to a more expeditious project of a [PHP Wrapper](https://github.com/jrglasgow/c2patool) around the [c2patool (command line binary)](https://github.com/contentauth/c2patool).
 
 I may have a chance to get back to this in the future.
 
