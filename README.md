@@ -38,10 +38,10 @@ $c2pa->setKey($key_path);
 ## To Build
 Follow the installation instruction at https://davidcole1340.github.io/ext-php-rs/getting-started/installation.html to install Rust and the PHP development environment.
 
-Ensure that the following was installed:
+Ensure that the following is installed:
 * Rust/Cargo
   * in Ubuntu `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
-  * exit terminal and re-enter or reload your PATH to get the location pf the binaries
+  * exit terminal and re-enter or reload your PATH to get the location of the binaries
 * php-dev/php-config
   * in Ubuntu `sudo apt install php-dev`
 * Clang
